@@ -1,0 +1,1 @@
+Replace '남자' as 'male' and '여자' as 'female' in a column 'sex' and Suggest a python code for histograms based on a column ' y_brith' grouped by a column 'sex'

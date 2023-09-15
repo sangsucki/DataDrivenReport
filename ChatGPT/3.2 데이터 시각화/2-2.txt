@@ -1,0 +1,7 @@
+below is what I have in my dataframe variable ‘df’. Suggest a python code for histograms based on a column ' y_brith' grouped by a column 'sex': 
+	y_birth	y_enter	y_retire	sex 
+0	1965.0	2021	NaN	남자 
+1	1966.0	1992	NaN	남자
+2	1973.0	1998	NaN	남자
+3	1982.0	2008	NaN	남자
+4	1987.0	2013	NaN	남자

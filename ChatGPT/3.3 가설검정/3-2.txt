@@ -1,0 +1,7 @@
+Shapiro-Wilk p-values: 
+Youtube: 0.02854318544268608 
+Instagram: 0.4155793786048889 
+Facebook: 0.17158305644989014 
+Youtube data is not normally distributed 
+Instagram data is normally distributed 
+Facebook data is normally distributed

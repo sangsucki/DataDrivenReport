@@ -1,0 +1,1 @@
+Suggest a python code for xy plot where the x-axis is ‘Healthy Life Expectancy’ and y-axis is ‘Score’.

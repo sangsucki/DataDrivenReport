@@ -1,0 +1,3 @@
+below is what I have in my dataframe variable ‘df’. suggest a python code for a logistic regression classification model that a dependent variable is a column ‘Outcome’ and independent variables are all other columns normalized. Split train data and test data as 7:3. 
+
+PregnanciesGlucoseBloodPressureSkinThicknessInsulinBMIDiabetesPedigreeFunctionAgeOutcome061487235033.60.62750111856629026.60.35131028183640023.30.672321318966239428.10.16721040137403516843.12.288331

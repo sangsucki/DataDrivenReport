@@ -1,0 +1,1 @@
+suggest a python code to compare Confusion matrix, AUC with a graph, accuracy and f1 score of logistic regression classification with random forest model given the same data. 

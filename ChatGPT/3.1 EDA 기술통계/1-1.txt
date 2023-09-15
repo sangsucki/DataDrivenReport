@@ -1,0 +1,1 @@
+below is what I have in my dataframe variable ‘df’. Suggest a python code for descriptive statistics of each column:

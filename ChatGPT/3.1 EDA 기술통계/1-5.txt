@@ -1,0 +1,1 @@
+Suggest a python code for visualization in a world map, locating a column 'Country or region' as a map location and indicating a density using a column ' Score'.

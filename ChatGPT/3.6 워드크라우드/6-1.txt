@@ -1,0 +1,1 @@
+below is what I have in my dataframe variable ‘df’. suggest a python code to extract all Korean nouns except one letter from a column 'title' and show top 30 nouns order by high frequencies:

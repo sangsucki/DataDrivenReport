@@ -1,0 +1,1 @@
+below is what I have in my dataframe variable ‘df’. suggest a python code for linear regression analysis that a dependent variable is a column ‘Chance of Admit’ and independent variables are all other columns except a column ‘Serial No.’ : 

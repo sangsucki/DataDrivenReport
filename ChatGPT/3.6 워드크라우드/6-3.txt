@@ -1,0 +1,1 @@
+suggest a python code to draw a wordcloud for top 30 nouns.
